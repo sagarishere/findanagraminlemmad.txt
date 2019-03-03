@@ -1,3 +1,11 @@
+To run the program, lemmad.txt and the python script should be in the same folder in your windows computer.
+Go to the folder. Then press Shift Key and Right Click. This should give you POWERSHELL in drop-dwon menu.
+Open PowerShell. In powershell type:
+python AnagramFinder.py and press enter.
+
+This will open a window where you can input your word. Then click the button Find Anagram.
+This will show you the result of the word related to lemmad.txt
+
 # findanagraminlemmad.txt
 a lemmad.txt file is provided. we write a python program to find anagram in it against the user input.
 
