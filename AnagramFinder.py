@@ -133,7 +133,7 @@ e1.grid(row=0,column=2)
 
 
 #DisplayResult
-t1=Text(window,height=30,width=250)
+t1=Text(window,height=30,width=100)
 t1.grid(row=1,column=2)
 
 window.mainloop()
