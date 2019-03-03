@@ -1,5 +1,5 @@
 To run the program, lemmad.txt and the python script should be in the same folder in your windows computer.
-Go to the folder. Then press Shift Key and Right Click. This should give you POWERSHELL in drop-dwon menu.
+Go to the folder. Once you are inside the folder containing the downloaded files, (without selecting any file) press Shift Key and Right Click. This should give you POWERSHELL in drop-dwon menu.
 Open PowerShell. In powershell type:
 python AnagramFinder.py and press enter.
 
